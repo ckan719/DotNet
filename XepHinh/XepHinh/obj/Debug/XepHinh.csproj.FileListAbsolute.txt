@@ -1,0 +1,10 @@
+E:\DotNet\XepHinh\XepHinh\bin\Debug\XepHinh.exe.config
+E:\DotNet\XepHinh\XepHinh\bin\Debug\XepHinh.exe
+E:\DotNet\XepHinh\XepHinh\bin\Debug\XepHinh.pdb
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.csprojAssemblyReference.cache
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.Properties.Resources.resources
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.csproj.GenerateResource.cache
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.csproj.CoreCompileInputs.cache
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.exe
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.pdb
+E:\DotNet\XepHinh\XepHinh\obj\Debug\XepHinh.form.resources

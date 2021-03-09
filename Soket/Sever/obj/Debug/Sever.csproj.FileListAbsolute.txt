@@ -1,0 +1,9 @@
+E:\DotNet\Soket\Sever\bin\Debug\Sever.exe.config
+E:\DotNet\Soket\Sever\bin\Debug\Sever.exe
+E:\DotNet\Soket\Sever\bin\Debug\Sever.pdb
+E:\DotNet\Soket\Sever\obj\Debug\Sever.Properties.Resources.resources
+E:\DotNet\Soket\Sever\obj\Debug\Sever.Sever.resources
+E:\DotNet\Soket\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+E:\DotNet\Soket\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+E:\DotNet\Soket\Sever\obj\Debug\Sever.exe
+E:\DotNet\Soket\Sever\obj\Debug\Sever.pdb

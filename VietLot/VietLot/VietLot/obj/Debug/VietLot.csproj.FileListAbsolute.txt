@@ -1,0 +1,10 @@
+E:\VietLot\VietLot\VietLot\bin\Debug\VietLot.exe.config
+E:\VietLot\VietLot\VietLot\bin\Debug\VietLot.exe
+E:\VietLot\VietLot\VietLot\bin\Debug\VietLot.pdb
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.csprojAssemblyReference.cache
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.Properties.Resources.resources
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.csproj.GenerateResource.cache
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.csproj.CoreCompileInputs.cache
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.exe
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.pdb
+E:\VietLot\VietLot\VietLot\obj\Debug\VietLot.VietLot.resources
